@@ -1,1 +1,7 @@
-
+Title: Example
+Description: Example
+Preposition: Example
+Steps to reproduce: Example
+Expected result: Example
+Actual result: Example
+Attachments: Example
